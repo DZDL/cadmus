@@ -44,7 +44,7 @@ jobs:
           # Package name of debian package.
           package: cadmus
           # Directory of release files.
-          package_root: ./
+          package_root: .debpkg
           # Package maintainer name.
           maintainer: cadmus
           # Package version.
